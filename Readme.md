@@ -7,4 +7,3 @@
 
 P.S. There you can also find some readme files too with instructions
 
-Now, do your job!
